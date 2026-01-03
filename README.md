@@ -2,7 +2,7 @@
 
 TODO
 
-# リンク(エンジニアリング関連)
+# リンク
 
 利用している外部サービスのアカウントは以下の通り。
 
@@ -11,7 +11,8 @@ TODO
 | GitHub          | [@Ishikawa-Taiki](https://github.com/Ishikawa-Taiki)     | コード/設定の管理(現状プライベート利用のみ)           |
 | AtCoder         | [@IshikawaTaiki](https://atcoder.jp/users/IshikawaTaiki) | 関数型プログラミング(Haskell)、アルゴリズム学習       |
 | Zenn            | [@ishikawa_taiki](https://zenn.dev/ishikawa_taiki)       | 調査や思想のメモ、自身の体系的な情報整理              |
-| Qiita           | [@ishikawa_taiki](https://qiita.com/ishikawa_taiki)      | 有用そうな情報のまとめ                                 |
+| Qiita           | [@ishikawa_taiki](https://qiita.com/ishikawa_taiki)      | 有用そうな情報のまとめ                             |
+| はてなブログ      | [@ishikawa_taiki](https://ishikawa-taiki.hatenablog.com/about)       | 日記、雑記などの生活上の記録            |
 
 技術記事投稿サイト(Zenn/Qiita)については、サービス上の機能やユーザー数等を踏まえて以下構想で運用する想定。(運用前のため変更する可能性あり)
 
@@ -30,5 +31,5 @@ TODO
 
 # 更新
 
-最終更新：2024/07/27
+最終更新：2026/01/03
 [履歴](https://github.com/Ishikawa-Taiki/ishikawa-taiki.github.io/commits/main/)
